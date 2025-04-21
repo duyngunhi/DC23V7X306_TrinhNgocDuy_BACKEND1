@@ -1,6 +1,6 @@
 const config = {
     app: {
-        port: process.env.POST || 3000,
+        port: process.env.PORT || 3000,
     }
 };
 
